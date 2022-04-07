@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+body{
+    font-family: 'Open Sans', sans-serif;
+    background-image:  url('/assets/background.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.center-div{
+    padding: 10%;
+}
+
+.btn.btn-success{
+    padding: .4em .2em;
+    margin: 8px;
+}
+
+form{
+    padding: 0 3em;
+
+}
+
+#login .title > span{
+    font-size: .8em;
+}
+/* (.title > span iska matlab hota hai ki title kai andar ka span ) */
+
+
+.form-group{
+    padding: 10px;
+    margin: 2px;
+    border-radius: 5px;
+    font-size: 11px;
+}
+.container{
+    border-radius: 6px;
+    background-color: white;
+}
+
+.form-control{
+    border: 2px solid black;
+}
+
+.form-text{
+    font-size: 12px;
+   
+}
